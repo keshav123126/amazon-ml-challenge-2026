@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large datasets
+dataset/
+*.tsv
+
+# Large generated/model files
+*.db
+*.pkl
+*.pt
+
+# Generated outputs
+output/
+experiments/
+
+# Temporary inference files
+temp_inference/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
