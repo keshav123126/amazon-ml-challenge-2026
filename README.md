@@ -17,7 +17,10 @@ The solution uses:
 - Logistic Regression
 - Probability-based matching
 - Candidate generation and ranking
+## Author
 
+**Keshav Mittal**  
+Developed and implemented by me as part of the Amazon ML Challenge 2026.
 ## Pipeline
 
 ```text
